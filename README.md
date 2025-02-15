@@ -11,3 +11,5 @@
       Energy is not the most important elements if we know bio enough, cause most kind of protein and nuclear acid can switch bwtween different conformations which may just need a little energy as activate key. Thus consider the force balence is also a method that can be consider as a upper calssifier than energy restraint.
     ③ The principle of least action
       To be frankly, I think the principle of least action is also a good classifier that can be connected with the Energy restraint, cause one equals (kinetic energy + potential energy), another equals (PE - KE). Especailly, if I follow the MD method to build the LOSS in the NN FOR APTAMER CONFOMATION PREDICTING  
+## 2.The framework of code and ability of coding is important
+    ah! please forgive the shit framework of my code, it is also a chance to review the knowledge that may forget!!!
