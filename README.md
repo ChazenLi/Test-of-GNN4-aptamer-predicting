@@ -13,3 +13,7 @@
       To be frankly, I think the principle of least action is also a good classifier that can be connected with the Energy restraint, cause one equals (kinetic energy + potential energy), another equals (PE - KE). Especailly, if I follow the MD method to build the LOSS in the NN FOR APTAMER CONFOMATION PREDICTING  
 ## 2.The framework of code and ability of coding is important
     ah! please forgive the shit framework of my code, it is also a chance to review the knowledge that may forget!!!
+### 2.1 take def apart is SIGNIFICANT! make whole program easy to read and write!
+
+## 3.Problems
+### 3.1 the attribute of atoms and bind should be set correctly
