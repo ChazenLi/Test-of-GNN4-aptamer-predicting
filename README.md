@@ -1,0 +1,1 @@
+# Test-of-GNN4-aptamer-predicting
