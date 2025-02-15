@@ -1,5 +1,6 @@
 # Test-of-GNN4-aptamer-predicting
-##working, may change diff moddel to try and improving the coding ability
+## working, may change diff moddel to try and improving the coding ability
+## program exist bugs, fixing
 # It is a simple test which aims to find the problems and struggles may hard to be solved.
 ## 1.physic restraint is significant
   The model will try to keep the most atoms at the same position for lower Loss without basic physic logical against;
